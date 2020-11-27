@@ -1,16 +1,21 @@
-### Hi there 👋
+# Na Dong Hyeok (나동혁)
 
-<!--
-**agvx124/agvx124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Working on
+- @eduhash as a Intership (2020.01 ~ 2020.02)
+- @archisketch as a Android Developer (2020.09 ~ 2020.10)
 
-Here are some ideas to get you started:
+## 🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend (Android)
+- Backend (Node.js Spring)
+
+## 📚 Studying
+
+- Kotlin
+- Clean Architecture
+- Dagger2, Koin
+- Reactive Programming
+
+## ✉️ Contact Me
+
+- 📫 E-mail: skehdgur2815@gmail.com
