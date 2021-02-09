@@ -18,4 +18,4 @@
 
 ## ✉️ Contact Me
 
-- 📫 E-mail: skehdgur2815@gmail.com
+- 📫 E-mail: skehdgur8591@naver.com
