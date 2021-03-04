@@ -13,9 +13,9 @@
 
 ## 📚 Studying
 
-- Kotlin
+- Udacity Program
+- Android Unit Test
 - Clean Architecture
-- Dagger2, Koin
 - Reactive Programming
 
 ## ✉️ Contact Me
