@@ -15,7 +15,7 @@
 
 - Android Unit Test
 - Clean Architecture
-- Reactive Programming
+- Dagger & Hilt
 
 ## ✉️ Contact Me
 
